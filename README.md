@@ -1,6 +1,6 @@
 # Rip-Off_Wattpad
 
-Downloads all chapter of wattpad stories  in organized folders.
+Downloads all chapter of wattpad stories  in organized folders. Just a shitpost and i dont know legality of this code.
 
 ## Installation
 
