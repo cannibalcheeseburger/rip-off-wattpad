@@ -10,8 +10,8 @@ Downloads all chapter of wattpad stories  in organized folders. Just a shitpost 
  - Build from source
 
 ```
-git clone https://github.com/cannibalcheeseburger/cpu-scheduling-simluation.git
-cd cpu-scheduling-simulation
+git clone https://github.com/cannibalcheeseburger/rip-off-wattpad.git
+cd rip-off-wattpad
 ```
 
 
